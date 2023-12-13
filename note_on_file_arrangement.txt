@@ -1,0 +1,5 @@
+While I would have prefered to organize the files into their respective audio, 
+images, video etc. folders, a few of the tasks specifically said to put such files 
+in a folder called "master-files" which I have done instead.
+
+For the final project in MAD(B) I will use the individual folders.
